@@ -24,3 +24,4 @@ jobs:
 
       - name: Build and Test with Gradle
         run: ./gradlew clean build --no-daemon
+
